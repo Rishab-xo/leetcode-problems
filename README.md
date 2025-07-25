@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Rishab-xo/leetcode-problems/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Rishab-xo/leetcode-problems/tree/master/0383-ransom-note) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Rishab-xo/leetcode-problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
