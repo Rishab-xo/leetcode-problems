@@ -7,11 +7,11 @@ public:
         {
             um[i]++;
         }
-        for(auto it=um.begin(); it!=um.end(); ++it)
+        for(auto it:um)
         {
-            if(it->second==1)
+            if(it.second==1)
             {
-                sum+=it->first;
+                sum+=it.first;
             }
         }
         // for(auto& const[val,key]:um){
