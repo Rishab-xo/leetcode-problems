@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
