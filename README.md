@@ -11,15 +11,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/Rishab-xo/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
