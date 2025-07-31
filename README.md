@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rishab-xo/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishab-xo/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Rishab-xo/leetcode-problems/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rishab-xo/leetcode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
