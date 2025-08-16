@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishab-xo/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishab-xo/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishab-xo/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Rishab-xo/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishab-xo/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishab-xo/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rishab-xo/leetcode-problems/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
