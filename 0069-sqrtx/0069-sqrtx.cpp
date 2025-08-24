@@ -1,12 +1,20 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long i=1;
+        int l=0,h=x;
         int ans=0;
-        while(i*i<=x)
+        while(l<=h)
         {
-            ans=i;
-            i++;
+         long m=(l+h)/2;
+         if(m*m<=x)
+         {
+            ans=m;
+            l=m+1;
+         }
+         else{
+            h=m-1;
+         }
+            
         }
         return ans;
     }
